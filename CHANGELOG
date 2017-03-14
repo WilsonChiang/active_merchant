@@ -1,4 +1,5 @@
 = ActiveMerchant CHANGELOG
+* Fake change to test something
 
 == HEAD
 * JetPay: Adjust refund and void transaction types [davidsantoso] #2356
